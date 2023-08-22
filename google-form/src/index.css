@@ -1,0 +1,24 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+#purpleColor{
+  accent-color:blueviolet;
+  padding: 2px;
+}
+input[type="radio"] {
+  width: 20px;
+  height: 20px;
+  
+}
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  
+}
